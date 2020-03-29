@@ -1,4 +1,4 @@
-# SUPERVISED-ANOMALY-DETECTION
+# UNSUPERVISED-ANOMALY-DETECTION
 Supervised machine learning methods for novel anomaly detection.
 
 
