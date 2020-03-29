@@ -1,5 +1,5 @@
 # UNSUPERVISED-ANOMALY-DETECTION
-Supervised machine learning methods for novel anomaly detection.
+Unsupervised machine learning methods for novel anomaly detection.
 
 
 ##### CLASSICAL SVDD | [code](https://github.com/kennedyCzar/ADVANCE-MACHINE-LEARNING-KERNEL-METHOD/blob/master/ONE%20CLASS%20SVM(SVDD)/linearSVDD.py) | KERNEL SVDD [CODE](https://github.com/kennedyCzar/ADVANCE-MACHINE-LEARNING-KERNEL-METHOD/blob/master/ONE%20CLASS%20SVM(SVDD)/DualSVDD.py) | [Paper](https://github.com/kennedyCzar/ADVANCE-MACHINE-LEARNING-KERNEL-METHOD/blob/master/REPORT/oneclasssvm.pdf)
